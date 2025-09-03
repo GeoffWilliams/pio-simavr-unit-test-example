@@ -1,6 +1,6 @@
 # PlatformIO SimAVR Unit Test example for Arduino
 
-Simple project to show how to build native Arduino ATmega328 codes for phsical device and also be able to unit test the exact same code in SimAVR.
+Simple project to show how to build native Arduino ATmega328 codes for physical device and also be able to unit test the exact same code in SimAVR.
 
 
 ## Run tests on SimAVR
